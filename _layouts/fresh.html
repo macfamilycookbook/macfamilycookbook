@@ -1,0 +1,15 @@
+---
+layout: default
+---
+{%- assign _freshs = site.freshs | sort: 'order' -%}
+{%- include header.html scrolly_nav=_freshs -%}
+<!-- Main -->
+<div id="main">
+	{%- if page.content != "" -%}
+		{%- include section.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
+	{%- endif -%}
+	<!-- Sections -->
+	{%- for _fresh in _freshs -%}
+		{%- include section.html title=_fresh.title photo=_fresh.cover-photo photo-alt=_fresh.cover-photo-alt auto-header=_fresh.auto-header content=_fresh.content -%}
+	{%- endfor -%}
+</div>

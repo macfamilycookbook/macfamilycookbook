@@ -1,0 +1,29 @@
+---
+layout: default
+---
+{%- assign _beefs = site.beefs | sort: 'order' -%}
+{%- include header.html scrolly_nav=_beefs -%}
+<!-- Main -->
+<div id="main">
+	{%- if page.content != "" -%}
+		{%- include section.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
+	{%- endif -%}
+	<!-- Sections -->
+	{%- for _beef in _beefs -%}
+		{%- include section.html title=_beef.title auto-header=_beef.auto-header subtitle=_beef.author-%}
+		<div class="row">
+			<div class="6u 12u$(mobile)">
+				<div class = "container">
+		        	<h2> Ingredients </h2> 
+		        	{{_beef.content}}
+		   		</div>
+		    </div>
+			<div class="6u 12u$(mobile)">
+		    	<div class = "container">
+		    		<h2> Directions </h2>
+		    		{{_beef.directions | markdownify}}
+		    	</div>
+		    </div>
+		</div>
+	{%- endfor -%}
+</div>

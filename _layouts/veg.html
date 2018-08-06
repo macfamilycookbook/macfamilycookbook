@@ -1,0 +1,15 @@
+---
+layout: default
+---
+{%- assign _vegs = site.vegs | sort: 'order' -%}
+{%- include header.html scrolly_nav=_vegs -%}
+<!-- Main -->
+<div id="main">
+	{%- if page.content != "" -%}
+		{%- include section.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
+	{%- endif -%}
+	<!-- Sections -->
+	{%- for _veg in _vegs -%}
+		{%- include section.html title=_veg.title photo=_veg.cover-photo photo-alt=_veg.cover-photo-alt auto-header=_veg.auto-header content=_veg.content -%}
+	{%- endfor -%}
+</div>

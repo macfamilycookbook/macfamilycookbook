@@ -1,0 +1,15 @@
+---
+layout: default
+---
+{%- assign _others = site.others | sort: 'order' -%}
+{%- include header.html scrolly_nav=_others -%}
+<!-- Main -->
+<div id="main">
+	{%- if page.content != "" -%}
+		{%- include section.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
+	{%- endif -%}
+	<!-- Sections -->
+	{%- for _other in _others -%}
+		{%- include section.html title=_other.title photo=_other.cover-photo photo-alt=_other.cover-photo-alt auto-header=_other.auto-header content=_other.content -%}
+	{%- endfor -%}
+</div>

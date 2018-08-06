@@ -1,0 +1,15 @@
+---
+layout: default
+---
+{%- assign _porks = site.porks | sort: 'order' -%}
+{%- include header.html scrolly_nav=_porks -%}
+<!-- Main -->
+<div id="main">
+	{%- if page.content != "" -%}
+		{%- include section.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
+	{%- endif -%}
+	<!-- Sections -->
+	{%- for _pork in _porks -%}
+		{%- include section.html title=_pork.title photo=_pork.cover-photo photo-alt=_pork.cover-photo-alt auto-header=_pork.auto-header content=_pork.content -%}
+	{%- endfor -%}
+</div>

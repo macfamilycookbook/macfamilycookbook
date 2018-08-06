@@ -1,0 +1,15 @@
+---
+layout: default
+---
+{%- assign _seafoods = site.seafoods | sort: 'order' -%}
+{%- include header.html scrolly_nav=_seafoods -%}
+<!-- Main -->
+<div id="main">
+	{%- if page.content != "" -%}
+		{%- include section.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
+	{%- endif -%}
+	<!-- Sections -->
+	{%- for _seafood in _seafoods -%}
+		{%- include section.html title=_seafood.title photo=_seafood.cover-photo photo-alt=_seafood.cover-photo-alt auto-header=_seafood.auto-header content=_seafood.content -%}
+	{%- endfor -%}
+</div>
