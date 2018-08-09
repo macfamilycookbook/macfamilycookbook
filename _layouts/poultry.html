@@ -10,6 +10,20 @@ layout: default
 	{%- endif -%}
 	<!-- Sections -->
 	{%- for _poultry in _poultrys -%}
-		{%- include section.html title=_poultry.title photo=_poultry.cover-photo photo-alt=_poultry.cover-photo-alt auto-header=_poultry.auto-header content=_poultry.content -%}
+		{%- include section.html title=_poultry.title auto-header=_poultry.auto-header subtitle=_poultry.author-%}
+		<div class="row">
+			<div class="6u 12u$(mobile)">
+				<div class = "container">
+		        	<h2> Ingredients </h2> 
+		        	{{_poultry.content}}
+		   		</div>
+		    </div>
+			<div class="6u 12u$(mobile)">
+		    	<div class = "container">
+		    		<h2> Directions </h2>
+		    		{{_poultry.directions | markdownify}}
+		    	</div>
+		    </div>
+		</div>
 	{%- endfor -%}
 </div>

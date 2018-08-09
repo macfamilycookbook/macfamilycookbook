@@ -2,7 +2,7 @@
 title: Beef-Bean Enchiladas 
 author:
 layout: post
-icon:
+icon: fa-cutlery
 order: 7
 directions: |
    - In a frying pan sauté ground beef and onions until meat is browed and onions are soft. Stir in beans, salt, garlic powder, taco sauce, and olives; heat until bubbly.

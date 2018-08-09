@@ -2,7 +2,7 @@
 title: Mediterranean Meatballs
 author:
 layout: post
-icon:
+icon: fa-cutlery
 order: 8
 directions: |
    - In a 10- to 12-inch frying pan, combine oil and onion. Cook. Stirring, over medium-high heat until onion is limp, about 5 minutes. Stir in garlic, ginger, cumin, paprika, coriander, vinegar, tomatoes, broth, and bouillon cube. Turn heat to high and cook, stirring, until mixture boils. Add meatballs; reduce heat, cover, and simmer for 1 hour. With a slotted or runcible spoon, transfer meatballs to a serving dish and keep hot. 

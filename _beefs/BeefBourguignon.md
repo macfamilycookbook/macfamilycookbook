@@ -2,7 +2,7 @@
 title: Beef Bourguignon
 author: 
 layout: post
-icon:
+icon: fa-cutlery
 order: 16
 directions: |
    - Combine wine, carrot, sliced onions, parsley, garlic, oil, and seasonings in deep bowl. Add beef cubes and marinate for 4 hours, turning meat occasionally. Remove meat and drain well on paper toweling. Strain marinade and set aside.

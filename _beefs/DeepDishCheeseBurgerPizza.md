@@ -1,7 +1,7 @@
 ---
 title: Deep-dish Cheeseburger Pizza
 author: Leslie
-icon:
+icon: fa-cutlery
 layout: post
 order: 1
 directions: |

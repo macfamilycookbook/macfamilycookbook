@@ -2,7 +2,7 @@
 title: Lasagna
 author: 
 layout: post
-icon:
+icon: fa-cutlery
 order: 17
 directions: |
    - In a large frying pan that has a cover, sauté onion in oil until soft; add beef and garlic, and cook, stirring, until meat is brown and crumbly. Stir in tomato sauce, tomato paste, wine, and water. Add salt, oregano, pepper, and sugar, stirring until mixed. Cover pan and simmer slowly about 1½ hours.

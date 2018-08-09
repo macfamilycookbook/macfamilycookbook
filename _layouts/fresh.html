@@ -10,6 +10,20 @@ layout: default
 	{%- endif -%}
 	<!-- Sections -->
 	{%- for _fresh in _freshs -%}
-		{%- include section.html title=_fresh.title photo=_fresh.cover-photo photo-alt=_fresh.cover-photo-alt auto-header=_fresh.auto-header content=_fresh.content -%}
+		{%- include section.html title=_fresh.title auto-header=_fresh.auto-header subtitle=_fresh.author-%}
+		<div class="row">
+			<div class="6u 12u$(mobile)">
+				<div class = "container">
+		        	<h2> Ingredients </h2> 
+		        	{{_fresh.content}}
+		   		</div>
+		    </div>
+			<div class="6u 12u$(mobile)">
+		    	<div class = "container">
+		    		<h2> Directions </h2>
+		    		{{_fresh.directions | markdownify}}
+		    	</div>
+		    </div>
+		</div>
 	{%- endfor -%}
 </div>

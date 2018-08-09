@@ -2,7 +2,7 @@
 title: Not-Just-Any-Chili Chili
 author: 
 layout: post
-icon:
+icon: fa-cutlery
 order: 4
 directions: |
   - Crumble beef into a 5 to 6-quart kettle over medium heat; cook, stirring to break up, until browned. Add onion and cook until soft. Stir in tomatoes (break up with a spoon) and their liquid, tomato purée, beans, Worcestershire, bitters, water, garlic, bouillon cube, red pepper, bay, chili powder, coriander, cumin, thyme, oregano, and basil. Bring to a boil; reduce heat and simmer, uncovered, stirring occasionally, until chili is thick and flavors are well blended (~2 hours). Skim and discard fat, and remove bay leaves. 

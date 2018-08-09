@@ -10,6 +10,20 @@ layout: default
 	{%- endif -%}
 	<!-- Sections -->
 	{%- for _seafood in _seafoods -%}
-		{%- include section.html title=_seafood.title photo=_seafood.cover-photo photo-alt=_seafood.cover-photo-alt auto-header=_seafood.auto-header content=_seafood.content -%}
+		{%- include section.html title=_seafood.title auto-header=_seafood.auto-header subtitle=_seafood.author-%}
+		<div class="row">
+			<div class="6u 12u$(mobile)">
+				<div class = "container">
+		        	<h2> Ingredients </h2> 
+		        	{{_seafood.content}}
+		   		</div>
+		    </div>
+			<div class="6u 12u$(mobile)">
+		    	<div class = "container">
+		    		<h2> Directions </h2>
+		    		{{_seafood.directions | markdownify}}
+		    	</div>
+		    </div>
+		</div>
 	{%- endfor -%}
 </div>

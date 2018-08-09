@@ -1,8 +1,8 @@
 ---
 title: Roadhouse Steaks with Ancho Chile
 author: Leslie
-layout: post
-icon:
+layout: post 
+icon: fa-cutlery
 order: 2
 directions: | 
    - Prepare grill.

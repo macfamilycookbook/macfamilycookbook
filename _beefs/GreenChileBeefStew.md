@@ -2,7 +2,7 @@
 title: Green Chile Beef Stew
 author: 
 layout: post
-icon:
+icon: fa-cutlery
 order: 18
 directions: |
    - In a 5-quart kettle over medium-high heat, melt lard. Add meat, a portion at a time, and cook until browned; lift out meat and place in a bowl.

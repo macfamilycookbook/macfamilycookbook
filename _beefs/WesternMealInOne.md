@@ -2,7 +2,7 @@
 title: Western Meal-in-One
 author:
 layout: post
-icon:
+icon: fa-cutlery
 order: 10
 directions: |
    - Brown the ground meat in oil until crumbly. Add garlic, salt, onion, green pepper, and Chile powder, and sauté for 5 minutes, or until vegetables are limp. Mix in tomatoes, kidney beans, and rice, and turn into a greased 2 quart casserole.

@@ -2,7 +2,7 @@
 title: Tangy Tortilla-Beef Casserole
 author:
 layout: post
-icon:
+icon: fa-cutlery
 order: 9
 directions: |
    - Brown ground chuck and onion in a large frying pan. Blend in tomatoes, enchilada sauce, ripe olives with liquid, salt, garlic powder, and pepper. Bring mixture to a boil, reduce heat, and simmer, uncovered, for about 20 minutes, stirring occasionally. 

@@ -2,7 +2,7 @@
 title: Mafé
 author: 
 layout: post
-icon:
+icon: fa-cutlery
 order: 3
 directions: |
    - In a 5- to 6-quart kettle, brown beef well in oil over medium-high heat; lift out meat and set aside. Add onions to pan and cook, stirring, until limp. Add bouillon, water, tomatoes, tomato sauce, salt, cayenne, allspice, orange peel, and peanut butter; mix thoroughly. 

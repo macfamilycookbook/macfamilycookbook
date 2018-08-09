@@ -2,7 +2,7 @@
 title: Saltimbocca
 author:
 layout: post
-icon:
+icon: fa-cutlery
 order: 11
 directions: |
    - Trim fat, bone, and connective tissue from steaks. Place meat between sheets of waxed paper and pound with a flat mallet until ¼ inch think. Divide meat into 12 pieces of fairly equal size (join scraps together if needed).

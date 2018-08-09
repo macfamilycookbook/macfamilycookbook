@@ -2,7 +2,7 @@
 title: Veal Stroganoff
 author:
 layout: post
-icon:
+icon: fa-cutlery
 order: 21
 directions: |
    - Heat oil in a wide frying pan over medium-high heat; add veal and sausages and cook, stirring, until well browned on all sides. Stir in onion and mushrooms and cook until onion is soft.

@@ -2,7 +2,7 @@
 title: The Best Beef Stew
 author: Leslie
 layout: post
-icon:
+icon: fa-cutlery
 order: 19
 directions: |
    - Combine ½ cup flour, salt and pepper in gallon ziplock. Add beef; shake bag to coat beef. Place beef in the crock-pot. Add tomatoes with juice, potatoes, sausage, leek, onion, celery, broth, garlic and thyme; stir well.

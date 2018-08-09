@@ -2,7 +2,7 @@
 title: Korean Dumplings
 author: Young Jung
 layout: post
-icon:
+icon: fa-cutlery
 order: 5
 directions: Mix everything but the egg in a bowl using your hands. Crack the egg into a small bowl (it will be used as glue for the edges of the dumpling skin). Take a dumpling skin and place about 1 tbsp of mixture into the center of the skin. Fold the 2 edges over and “glue” them with some of the egg. Firmly press the edges together all around the center. Heat a pan with oil to medium. Fry dumplings on both sides until golden brown. Serve with soy sauce on the side.
 

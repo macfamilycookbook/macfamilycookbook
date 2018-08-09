@@ -2,7 +2,7 @@
 title: Beef Chiang Mai
 author: 
 layout: post
-icon:
+icon: fa-cutlery
 order: 6
 directions: |
    - Place a wok to medium heat; when wok is hot, add rice and stir-fry until golden (about 5 minutes). Remove from heat and transfer to a blend or food processor, while until finely ground. Set aside.

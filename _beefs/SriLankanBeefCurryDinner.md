@@ -2,7 +2,7 @@
 title: Sri Lankan Beef Curry Dinner
 author: Leslie
 layout: post
-icon:
+icon: fa-cutlery
 order: 13
 directions: |
    - Cook coriander, cumin, fennel, and turmeric in a small saucepan over medium-low heat 7 minutes or until toasted, stirring occasionally.

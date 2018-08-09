@@ -2,7 +2,7 @@
 title: Tomato Beef
 author:
 layout: post
-icon:
+icon: fa-cutlery
 order: 12
 directions: |
    - Cut beef with the grain into 1½ inch-wide strips. Cut each strip across the grain into ⅛-inch-thin slating slices. In a small bowl combine cornstarch, soy, sherry, water, and salt. Add beef, stirring to coat; then stir in 1½ teaspoons of the oil and let stand for 15 minutes.

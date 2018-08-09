@@ -2,7 +2,7 @@
 title: Chorizo-Stuffed Beef Roast
 author: 
 layout: post
-icon:
+icon: fa-cutlery
 order: 14
 directions: |
    - Cut a narrow (1-inch) X shape all the way through beef roast with long, thin sharp knife. Fill X cuts with sausage. Heat oil in Dutch oven until hot. Cook beef over medium heat until brown on all sides, about 15 minutes; drain fat.

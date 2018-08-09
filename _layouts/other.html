@@ -10,6 +10,20 @@ layout: default
 	{%- endif -%}
 	<!-- Sections -->
 	{%- for _other in _others -%}
-		{%- include section.html title=_other.title photo=_other.cover-photo photo-alt=_other.cover-photo-alt auto-header=_other.auto-header content=_other.content -%}
+		{%- include section.html title=_other.title auto-header=_other.auto-header subtitle=_other.author-%}
+		<div class="row">
+			<div class="6u 12u$(mobile)">
+				<div class = "container">
+		        	<h2> Ingredients </h2> 
+		        	{{_other.content}}
+		   		</div>
+		    </div>
+			<div class="6u 12u$(mobile)">
+		    	<div class = "container">
+		    		<h2> Directions </h2>
+		    		{{_other.directions | markdownify}}
+		    	</div>
+		    </div>
+		</div>
 	{%- endfor -%}
 </div>

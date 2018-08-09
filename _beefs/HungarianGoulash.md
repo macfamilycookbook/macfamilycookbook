@@ -2,7 +2,7 @@
 title: Hungarian Goulash
 author: 
 layout: post
-icon:
+icon: fa-cutlery
 order: 15
 directions: |
    - Heat oil in Dutch oven or 12-inch skillet until hot. Cook and stir beef in hot oil until brown , about 15 minutes; drain. Add water, tomatoes, onions, garlic, paprika, salt, bouillon, caraway seed and pepper. Break up tomatoes with fork. Heat to boiling; reduce heat. Cover and simmer 1 hour.
