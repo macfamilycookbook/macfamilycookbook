@@ -14,7 +14,6 @@ directions: |
 	<li>¼ lb. fresh mushrooms</li>
 	<li>1 (8 oz.) can water chestnuts, drained and diced</li>
 	<li>4 oranges, peel and dice</li>
-	<li> 
 </ul>
 
 <em> Dressing: <em>
