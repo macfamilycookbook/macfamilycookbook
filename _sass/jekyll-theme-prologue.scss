@@ -26,16 +26,16 @@
 		boxModel: 'border',
 		grid: ( gutters: (40px, 40px) ),
 		conditionals: true,
-		containers: 1400px,
+		containers: 650px,
 		breakpoints: (
 			wide: (
-				containers: 1200px,
+				containers: 600px,
 				grid: (
 					gutters: (40px, 40px)
 				),
 			),
 			normal: (
-				containers: 960px,
+				containers: 480px,
 				grid: (
 					gutters: (40px, 40px)
 				),
