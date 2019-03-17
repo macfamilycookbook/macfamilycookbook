@@ -14,17 +14,17 @@ directions: |
 
 <ul>
 	<li>1 cup sugar </li>
-	<li>1/2 cup butter</li>
+	<li>½ cup butter</li>
 	<li>Pinch Salt</li>
-	<li>1/4 cup sour cream</li>
+	<li>¼ cup sour cream</li>
 	<li>1 egg</li>
 	<li>1 tbsp hot water with 1/2 tsp baking soda</li>
-	<li>2 1/2 - 3 cup flour</li>
+	<li>2 ½ - 3 cup flour</li>
 </ul>
 
 <ul>
-	<li>2 1/2 tbsp soft butter or margerine</li>
-	<li>1 1/2+ cups powdered sugar</li>
-	<li>1 1/2 evaporated milk</li>
-	<li>3/4 tsp vanilla</li>
+	<li>2½ tbsp soft butter or margerine</li>
+	<li>1½+ cups powdered sugar</li>
+	<li>1½ evaporated milk</li>
+	<li>¾ tsp vanilla</li>
 </ul>
