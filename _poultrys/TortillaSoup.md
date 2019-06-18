@@ -3,7 +3,7 @@ title: Tortilla Soup
 author: Jeannie White
 icon: fa-cutlery
 layout: post
-order: 18
+order: 32
 directions: |
    - Saute onion until tender
    - Combine onion, beans, broth, and garlic in large pan. Thicken browth with around 6 tablespoons cornstarch. Boil and let simmer.

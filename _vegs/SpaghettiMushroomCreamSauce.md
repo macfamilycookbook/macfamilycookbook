@@ -3,7 +3,7 @@ title: Spaghetti with Mushroom Herb Cream Sauce
 author: Damn Delicious
 icon: fa-cutlery
 layout: post
-order: 19
+order: 18
 directions: |
    - In a large pot of boiling salted water, cook pasta according to package instructions; drain well.
    - Melt butter in a saucepan over medium heat. Add garlic and mushrooms, and cook, stirring occasionally, until tender and browned, about 5-6 minutes. Whisk in flour until lightly browned, about 1 minute.

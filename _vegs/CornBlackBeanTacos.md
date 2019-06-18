@@ -3,7 +3,7 @@ title: Sweet Corn & Black Bean Tacos
 author: Cookie and Kate
 icon: fa-cutlery
 layout: post
-order: 20
+order: 19
 directions: |
    - To prepare the corn salad: Slice the kernels off all four sides of the corn cobs. Transfer the kernels to a medium-sized mixing bowl and add the other ingredients aside from feta. Mix well. Stir in feta. Set the bowl aside to marinate while your prepare the beans.
    - To prepare the black beans: Warm the olive oil in a large saucepan over medium heat. Add the onions and a sprinkle of salt. Cook about 5 to 8 minutes. Add the cumin and cook for about 30 seconds while stirring. Pour in the beans and ⅓ cup water. Stir, cover and reduce heat to simmer. Cook for 5 minutes, then remove the lid and use the back of a fork to mash up at least half of the beans. Remove from heat, season generously with salt and pepper, and cover until you’re ready to serve.
